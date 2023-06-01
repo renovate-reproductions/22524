@@ -10,7 +10,7 @@
             "matchManagers": ["cargo"],
             "matchUpdateTypes": ["patch", "minor", "major"],
             "groupName": "Tauri dependencies",
-            "groupSlug": "tauri-deps",
+            "groupSlug": "tauri-deps"
         }
     ],
     "lockFileMaintenance": {

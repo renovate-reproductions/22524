@@ -1,0 +1,18 @@
+{
+    "packageRules": [
+        {
+            "matchManagers": [
+                "cargo"
+            ],
+            "groupName": "Tauri dependencies",
+            "groupSlug": "tauri-deps",
+            "separateMajorMinor": false
+        }
+    ],
+    "lockFileMaintenance": {
+        "enabled": true,
+        "schedule": [
+            "every 2 months on the first day of the month"
+        ]
+    }
+}

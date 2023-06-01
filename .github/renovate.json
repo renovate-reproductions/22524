@@ -4,6 +4,7 @@
             "matchManagers": [
                 "cargo"
             ],
+            "matchUpdateTypes": ["patch", "minor", "major"],
             "groupName": "Tauri dependencies",
             "groupSlug": "tauri-deps",
             "separateMajorMinor": false
